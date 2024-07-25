@@ -4,7 +4,7 @@
 <p>A Smooth Music Bot. It Can Play Music In Your Group And Channel</p>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<a href="https://t.me/shhyrr" class="btn-flip" data-back="EVID" data-front="JOIN TELIGRAM"></a>
+<a href="https://t.me/shhyrr" class="btn-flip" data-back="EVID" data-front="JOIN TELIGRAM">BUTTON</a>
 
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
