@@ -1,4 +1,4 @@
-# 𝘼𝙞 ✘ 𝙈𝙪𝙨𝙞𝙘 
+⏤͟͞⚡𝘼𝘿𝘼 ✘𝙎𝙏𝙍𝙀𝘼𝙈˼⃝࿐🫧
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <p>A Smooth Music Bot. It Can Play Music In Your Group And Channel</p>
@@ -33,7 +33,7 @@ Enhance your group chat experience with seamless music and video streaming.
 
  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
  
-# [𝘼𝙞 ✘ 𝙈𝙪𝙨𝙞𝙘 ](https://t.me/AI_ARMY) on Telegram today!
+# [ ⏤͟͞⚡𝘼𝘿𝘼 ✘𝙎𝙏𝙍𝙀𝘼𝙈˼⃝࿐🫧 ](https://t.me/TheAdaSupport) on Telegram today!
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
@@ -47,7 +47,7 @@ Enhance your group chat experience with seamless music and video streaming.
 <p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/Evidclue/2025"> <img src="https://img.shields.io/badge/Deploy%20On%20Heroku-black?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
 
 ## 🏷 Support Section
-**_[Updates](https://t.me/AI_ARMY)_**
+**_[Updates](https://t.me/TheAdaSupport)_**
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
