@@ -2,9 +2,9 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <p>A Smooth Music Bot. It Can Play Music In Your Group And Channel</p>
-<img src="https://t.me/shhyrr">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<img src="https://telegra.ph/file/36fbf4d7c2219234de2c5.jpg" align="middle" width="500" height="250"/>
+<img src="https://t.me/shhyrr" align="middle" width="500" height="250"/>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
